@@ -1,1 +1,2 @@
-hello fot my repo
+hello for my repo
+Hello from github
